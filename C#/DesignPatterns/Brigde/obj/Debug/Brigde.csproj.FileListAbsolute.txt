@@ -1,0 +1,7 @@
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\bin\Debug\Brigde.exe.config
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\bin\Debug\Brigde.exe
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\bin\Debug\Brigde.pdb
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\obj\Debug\Brigde.csprojAssemblyReference.cache
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\obj\Debug\Brigde.csproj.CoreCompileInputs.cache
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\obj\Debug\Brigde.exe
+C:\Users\joao.alves\source\repos\DesignPatterns\Brigde\obj\Debug\Brigde.pdb
